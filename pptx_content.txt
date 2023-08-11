@@ -1,0 +1,29 @@
+Presentation Title: Understanding MongoDB 
+
+Slide-1 Title: Introduction to MongoDB
+   - Definition and overview of MongoDB
+   - Importance and application areas of MongoDB
+
+Slide-2 Title: MongoDB Vs Traditional Databases
+   - Comparison of MongoDB with traditional SQL databases
+   - Pros and Cons of MongoDB 
+
+Slide-3 Title: Key Features of MongoDB
+   - Detailed description of MongoDB features
+   - How these features enhance data management 
+
+Slide-4 Title: Basics of MongoDB
+   - Understanding MongoDB Architecture
+   - Introduction to MongoDB query language
+
+Slide-5 Title: MongoDB Installation and Setup
+   - Step-by-step instruction for MongoDB installation
+   - Basic setup details for getting started
+
+Slide-6 Title: Working with MongoDB
+   - Brief on CRUD operations in MongoDB
+   - Examples of database operations with MongoDB
+
+Last Slide Title: Future Trends & Conclusion
+   - Future trends and growth potential of MongoDB 
+   - Wrapping up and conclusion of the session on MongoDB.
